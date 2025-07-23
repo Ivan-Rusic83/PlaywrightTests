@@ -4,7 +4,7 @@ using Microsoft.Playwright.Xunit;
 
 namespace PlaywrightTests;
 
-public class UnitTest1: PageTest
+public class UnitTest1 : PageTest
 {
     [Fact]
     public async Task HasTitle()
@@ -26,4 +26,6 @@ public class UnitTest1: PageTest
         // Expects page to have a heading with the name of Installation.
         await Expect(Page.GetByRole(AriaRole.Heading, new() { Name = "Installation" })).ToBeVisibleAsync();
     } 
+    
+    //comment
 }
