@@ -442,3 +442,4 @@ C:\Users\Acer\PlaywrightTests\obj\Debug\net9.0\refint\PlaywrightTests.dll
 C:\Users\Acer\PlaywrightTests\obj\Debug\net9.0\PlaywrightTests.pdb
 C:\Users\Acer\PlaywrightTests\obj\Debug\net9.0\PlaywrightTests.genruntimeconfig.cache
 C:\Users\Acer\PlaywrightTests\obj\Debug\net9.0\ref\PlaywrightTests.dll
+C:\Users\Acer\PlaywrightTests\obj\Debug\net9.0\PlaywrightTests.sourcelink.json
